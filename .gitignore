@@ -2,7 +2,7 @@
 *.class
 *.grade
 *.idea
-*.bin
+bin
 
 # Log file
 *.log

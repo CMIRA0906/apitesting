@@ -21,7 +21,7 @@ public class OverrideChildClass extends OverrideExample{
      * This method is a overriding implementation
      */
     @Override
-    public void methodToOverride(){
+    public  void methodToOverride(){
         System.out.println("Showing child class");
     }
 
